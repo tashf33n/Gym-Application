@@ -1,2 +1,2 @@
 # Gym Application
- Gym application created using html and css
+ This repository will contain 20 projects developed with HTML, CSS and Javascript.
